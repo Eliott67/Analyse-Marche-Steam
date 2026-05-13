@@ -23,7 +23,16 @@ L'analyse a permis de mettre en évidence une forte inégalité structurelle du 
 * 🔴 **Les succès commerciaux :** Des titres très rentables, souvent à prix intermédiaire, mais avec une rétention qui s'essouffle.
 * 🔵 **Les phénomènes d'addiction :** Une élite très restreinte cumulant audience massive et temps de jeu exceptionnel (souvent multijoueur/Free-to-Play).
 
-📦 Projet_ADD
- ┣ 📜 Oster_Paulien_Parnotte_Projet_ADD.ipynb     # Notebook principal contenant toutes les analyses (ACP, ACM, Clustering)
- ┣ 📜 2526-Projet.pdf     # Consignes données pour ce projet
- ┗ 📜 README.md            # Description du projet
+└── Projet_ADD/
+    ├── Oster_Paulien_Parnotte_Projet_ADD.ipynb  # Notebook principal contenant toutes les analyses (ACP, ACM, Clustering)
+    ├── 2526-Projet.pdf                          # Consignes données pour ce projet
+    └── README.md                                # Description du projet
+    
+   
+---
+
+## 👥 Authors
+
+* **Eliott Oster**
+* **Paulien-Camy Lucas**
+* **Parnotte Léo**
