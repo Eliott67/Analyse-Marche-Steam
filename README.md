@@ -3,6 +3,11 @@
 ## Objectif du Projet
 Ce projet vise à explorer et modéliser le marché des jeux vidéo sur la plateforme Steam. L'objectif est d'identifier les caractéristiques intrinsèques (genres, modèles économiques, fonctionnalités multijoueurs) qui favorisent le succès commercial, et de segmenter le catalogue en profils types pour mieux comprendre les dynamiques de l'industrie.
 
+### 📥 Récupération des données
+> **Note importante :** Le jeu de données brut (`games.csv` / `games.json`) dépasse la limite de taille autorisée par GitHub. Pour relancer le notebook, vous devez d'abord télécharger les données via le lien ci-dessous et les placer à la racine du projet.
+> 
+> 🔗 **[Télécharger le Steam Games Dataset ici](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download)**
+
 ## Données
 Le jeu de données comprend un large échantillon du catalogue Steam (nettoyé à ~120 000 jeux). Les variables incluent :
 * **Quantitatives :** Prix, temps de jeu moyen/médian, nombre d'avis, scores Metacritic.
