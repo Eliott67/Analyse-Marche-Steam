@@ -18,7 +18,7 @@ L'analyse s'articule autour de plusieurs méthodes d'apprentissage non supervis�
 1. **Analyse en Composantes Principales (ACP) :** Réduction de dimension sur les variables d'engagement et de notoriété.
 2. **Clustering (K-Means) :** Segmentation du marché en 3 groupes distincts basés sur le plan factoriel de l'ACP.
 3. **Analyse des Correspondances Multiples (ACM) :** Étude des associations entre les caractéristiques qualitatives (Genres vs Succès, Évolution temporelle).
-4. **Régressions (OLS, Ridge & Lasso) :** Évaluation de la robustesse des axes explicatifs du succès commercial.
+4. **Régressions (OLS & Lasso) :** Évaluation de la robustesse des axes explicatifs du succès commercial.
 
 ## Résultats Principaux
 L'analyse a permis de mettre en évidence une forte inégalité structurelle du marché, divisé en 3 segments :
